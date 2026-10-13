@@ -34,7 +34,7 @@ Run on Windows:
 
 ```bash
 banking_analysis.exe
-```
+````
 
 Run on Linux or macOS:
 
