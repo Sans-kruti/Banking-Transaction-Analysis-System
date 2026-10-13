@@ -101,6 +101,7 @@ int partition(Transaction arr[], int low, int high) {
         }
     }
 
+
     Transaction t = arr[i + 1];
     arr[i + 1] = arr[high];
     arr[high] = t;
